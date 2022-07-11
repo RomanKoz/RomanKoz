@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RomanKoz
 - 👀 I’m interested in ML researches with Python.
-- 🌱 I’m currently learning Computer Vision, NLP.
 - 💞️ I’m looking to collaborate on some interesting projects.
 - 📫 please contact me roman.kozlovdav@gmail.com
 
